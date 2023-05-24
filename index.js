@@ -16,7 +16,7 @@ const questions = [
     {
         type: "input",
         name: "textColor",
-        message: "What color do you want the text?",
+        message: "What color do you want the text? Input either color name or the color code",
 
     },
     {
