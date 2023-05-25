@@ -9,6 +9,7 @@
   - [Questions](#Questions)
   - [Test](#Test)
   - [License](#license)
+  - [Links](#links)
 
 
   ## Description
@@ -19,6 +20,8 @@
 
   ## Usage
   User will navigate to the correct file in the terminal and type node index.js. The terminal will generate prompts for the user to answer to design the characteristics of their logo. When completing the questions navigate to the logo.svg file to see your new logo.
+
+  https://drive.google.com/file/d/1tTFTwwXa3wAU8YlDV8bszRiFRElZWNsk/view
 
   ## Contribution
   Please contact me with any questions.
@@ -35,5 +38,7 @@
 This project is licensed under the MIT license.
 
  ## Links
- https://github.com/Dcastillomar/logo-generator
+ Github- https://github.com/Dcastillomar/logo-generator
+ 
+ Walkthrough- https://drive.google.com/file/d/1tTFTwwXa3wAU8YlDV8bszRiFRElZWNsk/view
   
